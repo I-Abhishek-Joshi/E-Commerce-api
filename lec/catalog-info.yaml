@@ -1,0 +1,49 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: renohacksapi
+  description: renohacksapi
+  links:
+    - url: https://tools.lowes.com/stash/projects/E-LBCB/repos/renohacks-api/browse
+      title: Repo
+      icon: FaBitbucket
+    - url: https://jenkins.lowes.com/job/LeapBootCamp/job/LeapBootCampBatch2/job/renohacks-api/
+      title: Jenkins
+      icon: FaJenkins
+  tags:
+    - java
+  information:
+    portfolio:
+      key: tbm
+    application_name: renohacksapi
+    team_name: leap-bootcamp
+    team_DL: leap@lowes.com
+    CMDB: null
+    product_manager:
+      email_id: ""
+      name: krishnarao.sapare
+    sem:
+      email_id: ""
+      name: anjana.nair
+    service_tier: nulls
+    type: service
+    namespace: leap
+    hosted_on: onprem
+  carbon:
+    onprem:
+      dev: https://tools.lowes.com/stash/projects/E-CCON/repos/carbon-cellulose-intake/browse/3-cellulose-manifests/leap-ns/celluloid-items-api-4524846.yaml?at=refs%2Fheads%2Ffeature-dev
+      stage: ""
+      perf: ""
+      prod:
+        sadc: null
+        wsdc: null
+  annotations:
+    sonarqube.org/project-key: ""
+    jenkins.io/github-folder: LeapBootCamp/job/LeapBootCampBatch2/renohacks-api
+    backstage.io/jenkins-proxy-path: /jenkins/api
+    jira/project-key: ""
+    lec/overview-default-branch: master
+spec:
+  type: service
+  lifecycle: experimental
+  owner: leap-bootcamp

@@ -1,0 +1,10 @@
+insert into customer (customer_id, customer_name, customer_mob_no, customer_email, customer_address,cart_id,orders_id) values (1, 'Arasha', '9027450834', 'arasha@gmail.com', 'Manyata Residency',1,1);
+insert into customer (customer_id, customer_name, customer_mob_no, customer_email, customer_address,cart_id,orders_id) values (2, 'Roman', '8027450834', 'roman@gmail.com', 'WhitePark Residency',2,2);
+insert into customer (customer_id, customer_name, customer_mob_no, customer_email, customer_address,cart_id,orders_id) values (3, 'Henry', '7027450834', 'henry@gmail.com', 'Akme Ballet',3,3);
+insert into customer (customer_id, customer_name, customer_mob_no, customer_email, customer_address,cart_id,orders_id) values (4, 'Arpita', '9027879034', 'arpita@gmail.com', 'Brookefiled',4,4);
+insert into customer (customer_id, customer_name, customer_mob_no, customer_email, customer_address,cart_id,orders_id) values (5, 'Mhar', '9027450123', 'mhar@gmail.com', 'Wokha',5,5);
+insert into customer (customer_id, customer_name, customer_mob_no, customer_email, customer_address,cart_id,orders_id) values (6, 'Kenny', '9027450890', 'kenny@gmail.com', 'DAN peace',6,6);
+insert into customer (customer_id, customer_name, customer_mob_no, customer_email, customer_address,cart_id,orders_id) values (7, 'Nikitha', '9027450867', 'nikitha@gmail.com', 'Nagawara',7,7);
+insert into customer (customer_id, customer_name, customer_mob_no, customer_email, customer_address,cart_id,orders_id) values (8, 'Anagh', '6078450834', 'anagh@gmail.com', 'Suncity Vistar',8,8);
+insert into customer (customer_id, customer_name, customer_mob_no, customer_email, customer_address,cart_id,orders_id) values (9, 'David', '9027340834', 'david@gmail.com', 'StreetRoad#9',9,9);
+insert into customer (customer_id, customer_name, customer_mob_no, customer_email, customer_address,cart_id,orders_id) values (10, 'Phoebe', '6127450834', 'phoebe@gmail.com', 'City park #3',10,10);

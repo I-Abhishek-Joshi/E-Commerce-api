@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: leap
+  description: leap team
+spec:
+  type: team
+  profile:
+    email: leap@lowes.com
+    picture: https://avatars.dicebear.com/api/identicon/team.svg?background=%23fff&margin=25
+  parent: ea
+  children: []
